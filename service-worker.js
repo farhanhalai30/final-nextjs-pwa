@@ -1,18 +1,18 @@
 self.__precacheManifest = [
   {
-    "url": "/final-nextjs-pwa/_next/static\\GiuQD3IZv_raI60PmNjLe\\pages\\test1.js"
+    "url": "/final-nextjs-pwa/_next/static\\PYeTuKN9G6ZbVUUX77fhd\\pages\\test1.js"
   },
   {
-    "url": "/final-nextjs-pwa/_next/static\\GiuQD3IZv_raI60PmNjLe\\pages\\index.js"
+    "url": "/final-nextjs-pwa/_next/static\\PYeTuKN9G6ZbVUUX77fhd\\pages\\index.js"
   },
   {
-    "url": "/final-nextjs-pwa/_next/static\\GiuQD3IZv_raI60PmNjLe\\pages\\about.js"
+    "url": "/final-nextjs-pwa/_next/static\\PYeTuKN9G6ZbVUUX77fhd\\pages\\about.js"
   },
   {
-    "url": "/final-nextjs-pwa/_next/static\\GiuQD3IZv_raI60PmNjLe\\pages\\_error.js"
+    "url": "/final-nextjs-pwa/_next/static\\PYeTuKN9G6ZbVUUX77fhd\\pages\\_error.js"
   },
   {
-    "url": "/final-nextjs-pwa/_next/static\\GiuQD3IZv_raI60PmNjLe\\pages\\_app.js"
+    "url": "/final-nextjs-pwa/_next/static\\PYeTuKN9G6ZbVUUX77fhd\\pages\\_app.js"
   },
   {
     "url": "/final-nextjs-pwa/_next/static/runtime/webpack-a79426b5e11f0ba5879d.js"
