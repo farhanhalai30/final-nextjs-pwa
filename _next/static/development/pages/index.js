@@ -3613,7 +3613,7 @@ function (_React$PureComponent) {
     key: "componentDidMount",
     value: function componentDidMount() {
       if ("serviceWorker" in navigator) {
-        navigator.serviceWorker.register("/service-worker.js").then(function (registration) {
+        navigator.serviceWorker.register("/final-nextjs-pwa/service-worker.js").then(function (registration) {
           console.log("service worker registration successful");
         }).catch(function (err) {
           console.warn("service worker registration failed", err.message);
@@ -3627,7 +3627,7 @@ function (_React$PureComponent) {
         className: "container"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_6___default.a, null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("link", {
         rel: "manifest",
-        href: "/manifest.json"
+        href: "/final-nextjs-pwa/static/manifest.json"
       })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Homepage"));
     }
   }]);
