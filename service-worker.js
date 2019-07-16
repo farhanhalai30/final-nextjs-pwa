@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "url": "/_next/static\\mhbBRODP5yfNFxv4ZbcUf\\pages\\test1.js"
+    "url": "/final-nextjs-pwa/_next/static\\GiuQD3IZv_raI60PmNjLe\\pages\\test1.js"
   },
   {
-    "url": "/_next/static\\mhbBRODP5yfNFxv4ZbcUf\\pages\\index.js"
+    "url": "/final-nextjs-pwa/_next/static\\GiuQD3IZv_raI60PmNjLe\\pages\\index.js"
   },
   {
-    "url": "/_next/static\\mhbBRODP5yfNFxv4ZbcUf\\pages\\about.js"
+    "url": "/final-nextjs-pwa/_next/static\\GiuQD3IZv_raI60PmNjLe\\pages\\about.js"
   },
   {
-    "url": "/_next/static\\mhbBRODP5yfNFxv4ZbcUf\\pages\\_error.js"
+    "url": "/final-nextjs-pwa/_next/static\\GiuQD3IZv_raI60PmNjLe\\pages\\_error.js"
   },
   {
-    "url": "/_next/static\\mhbBRODP5yfNFxv4ZbcUf\\pages\\_app.js"
+    "url": "/final-nextjs-pwa/_next/static\\GiuQD3IZv_raI60PmNjLe\\pages\\_app.js"
   },
   {
-    "url": "/_next/static/runtime/webpack-a79426b5e11f0ba5879d.js"
+    "url": "/final-nextjs-pwa/_next/static/runtime/webpack-a79426b5e11f0ba5879d.js"
   },
   {
-    "url": "/_next/static/runtime/main-3aa8107668d722494695.js"
+    "url": "/final-nextjs-pwa/_next/static/runtime/main-3aa8107668d722494695.js"
   },
   {
-    "url": "/_next/static/chunks/commons.863f02c54d3c6477d016.js"
+    "url": "/final-nextjs-pwa/_next/static/chunks/commons.863f02c54d3c6477d016.js"
   }
 ];
 
