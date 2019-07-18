@@ -12,7 +12,7 @@
         if (window.opener) {
           alert(window.opener.closed);
           setTimeout(function() {
-            window.close();
+            document.close();
           }, 2000);
         }
       })();
