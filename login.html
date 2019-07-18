@@ -9,7 +9,12 @@
   <body>
     <script>
       (function() {
-        if (window.opener) alert(window.opener.closed);
+        if (window.opener) {
+          alert(window.opener.closed);
+          setTimeout(function() {
+            window.close();
+          }, 2000);
+        }
       })();
     </script>
   </body>
