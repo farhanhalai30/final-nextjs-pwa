@@ -10,7 +10,7 @@
     <script>
       (function() {
         if (window.opener) {
-          alert(window.opener.closed);
+          alert(typeof window);
           setTimeout(function() {
             document.close();
           }, 2000);
