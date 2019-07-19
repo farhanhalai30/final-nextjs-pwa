@@ -34,7 +34,7 @@
   function setCookie(cname, cvalue) {
     console.log("Set Cookie");
     var date = new Date();
-    date.setTime(date.getTime() + 365 * 24 * 60 * 60 * 1000);
+    date.setTime(date.getTime() + 30 * 24 * 60 * 60 * 1000);
     // var offset = -d.getTimezoneOffset() / 60;
     var expires = date.toGMTString();
     document.cookie =
