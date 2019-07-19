@@ -6,7 +6,7 @@
   //     "scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,width=600,height=600,left=300,top=100"
   //   );
   if (getCookie("Test") != "") {
-    alert("Cookie found", getCookie("Test"));
+    alert("Cookie found: " + getCookie("Test"));
   } else {
     alert("Setting cookie");
     setCookie("Test", "Hello Test");
